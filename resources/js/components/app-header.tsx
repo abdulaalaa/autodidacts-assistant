@@ -3,7 +3,6 @@ import { BookOpen, Folder, LayoutGrid, Menu, Pencil, Search } from 'lucide-react
 import AppLogo from '@/components/app-logo';
 import AppLogoIcon from '@/components/app-logo-icon';
 import { Breadcrumbs } from '@/components/breadcrumbs';
-import text_form from '@/components/text_form';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Button } from '@/components/ui/button';
 import {
